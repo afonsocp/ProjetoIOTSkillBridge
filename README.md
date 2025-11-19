@@ -31,7 +31,7 @@ pip install -r requirements.txt
 - `pydantic` - Validação de dados
 - `python-dotenv` - Gerenciamento de variáveis de ambiente
 
-### 2. Configurar Chave da API Gemini
+### 2. Configurar Chave da API Gemini (já tem uma no projeto)
 
 Crie arquivo `.env` na pasta `IOT/GlobalSolutionIOT/`:
 
